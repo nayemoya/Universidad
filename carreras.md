@@ -3,3 +3,4 @@
 2. Contabilidad.
 3. Entornos virtuales.
 4. Diseño.
+5. Contabilidad, hacer el commit
