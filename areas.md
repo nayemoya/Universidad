@@ -2,3 +2,5 @@
 1. TICS
 2. IEE
 3. EA
+4. area para probar stash
+5. Nueva area
