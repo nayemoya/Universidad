@@ -4,4 +4,3 @@
 3. EA
 4. area para probar stash
 5. Nueva area
-4. Area agregada desde Github, hacer el commit
